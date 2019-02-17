@@ -1,6 +1,5 @@
 ## 一个「学渣」从零开始的Web前端自学之路
 
----
 从 13 年专科毕业开始，一路跌跌撞撞走了很多弯路，做过餐厅服务员，进过工厂干过流水线，做过客服，干过电话销售可以说经历相当的“丰富”。
 
 最后的机缘巧合下，走上了前端开发之路，作为一个非计算机专业且低学历的人来说，自学编程其实不是件容易的事情，不过庆幸的是自己坚持下来了。
@@ -397,4 +396,5 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 4. 这份资源我会持续的更新，欢迎大家一起交流，如果你觉得好，可以给个 star。
 5. 我个人也创建了一个公众号，新的文章和资料我都会第一时间在公众号发布，除了分享技术，还会分享自己的行动，新的认识，感悟，心得体会等等，总之不只有技术，过来吧让我们一起成长。
 6. 扫码关注微信公众号，可以获取我一路走来的全套学习资源。
-![](https://blog-1257601889.cos.ap-shanghai.myqcloud.com/new-solgan-small.png?q-sign-algorithm=sha1&q-ak=AKIDsqjnQdrGpOViD7ptY0pZHnYRKk0ym9uo&q-sign-time=1550385974;1550387774&q-key-time=1550385974;1550387774&q-header-list=&q-url-param-list=&q-signature=d523a3c4d4f3f16938f8d33f6565184ded287c25&x-cos-security-token=d0f12b7e919adcdc0ba20aae03ab610bdc3ab02710001)
+
+![image](https://github.com/liuxiaodeng/web-learning/blob/master/new-solgan-small.png)
