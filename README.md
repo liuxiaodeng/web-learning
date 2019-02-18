@@ -374,7 +374,7 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 - [JavaScript libraries](https://www.javascripting.com/)：一些优秀的JavaScript 开源库。
 - [awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)：前端经典学习书单。
 - [前端 TOP 100](https://www.awesomes.cn/rank)：基本涵盖了所有前端在用的开源项目，我觉得收藏这一个就够了。
-- [前端九部 - 入门者手册2019](https://juejin.im/post/5c69166d6fb9a04a0c2efcd8)：九部成员合著的web前端开发零基础入门手册。
+- [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)：九部成员合著的web前端开发零基础入门手册。
 
 ### 常用工具
 
