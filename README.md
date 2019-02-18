@@ -176,6 +176,7 @@ HTML 承载了页面的内容，但是有时候会略显单调与「丑陋」，
 - [你不懂JS（系列丛书）](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 - [InterviewMap](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)：聚集了很多知识点，包括JS，浏览器，性能等。
 - [30 秒就能理解的 JavaScript 代码片段](https://www.html.cn/30-seconds-of-code/)：让你更好的理解一些有用的JS代码片段。
+- [力扣](https://leetcode-cn.com/)：学习数据结构与算法的平台。
 
 ### TypeScript篇
 
