@@ -129,6 +129,7 @@ HTML 承载了页面的内容，但是有时候会略显单调与「丑陋」，
 - [Stylus官网](https://stylus.bootcss.com/)：同样是 CSS 预编译器，但它省去了一些符号，让 CSS 写起来更加的简洁，清爽。
 - [HTML5和CSS3](https://github.com/qianguyihao/Web/tree/master/07-HTML5%E5%92%8CCSS3)：详解HTML5 和 CSS3。
 
+
 **知识点：**
 
 - [别说你懂CSS相对单位](http://wuyuying.com/blog/archives/css-in-depth-relative-units/)：深入了解 CSS 的相对单位rem，em区别。
@@ -138,6 +139,8 @@ HTML 承载了页面的内容，但是有时候会略显单调与「丑陋」，
 - [“CSS相关”目录存档](https://www.zhangxinxu.com/wordpress/category/css/)：张鑫旭大佬的CSS系列文章，深入浅出，《CSS世界》作者。
 - [CSS绘制的40种形状和图形](http://www.open-open.com/lib/view/open1476240478941.html)：利用CSS绘制出的40各种图形形状。
 - [CSS-大前端](http://www.daqianduan.com/tag/css)：一些 CSS 的知识点。
+- [CSS 专业技巧](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+- [无限 CSS](https://github.com/liuxiaodeng/Infinite-css)：学会更多的CSS技能，让CSS发挥更大的价值。
 
 ### JavaScript 篇
 
@@ -177,6 +180,8 @@ HTML 承载了页面的内容，但是有时候会略显单调与「丑陋」，
 - [InterviewMap](https://yuchengkai.cn/docs/frontend/#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)：聚集了很多知识点，包括JS，浏览器，性能等。
 - [30 秒就能理解的 JavaScript 代码片段](https://www.html.cn/30-seconds-of-code/)：让你更好的理解一些有用的JS代码片段。
 - [力扣](https://leetcode-cn.com/)：学习数据结构与算法的平台。
+- [Exploring the hidden potential of JavaScript arrays!](https://areknawo.com/exploring-the-hidden-potential-of-javascript-arrays/)：非常详细的数组知识讲解。
+- [【深度长文】JavaScript数组所有API全解密](http://louiszhai.github.io/2017/04/28/array/#Array-of)
 
 ### TypeScript篇
 
@@ -214,6 +219,7 @@ NodeJs 的出现让前端发展进入了一个新的领域，并且滋生出专�
 - [Node.js 官方](https://nodejs.org/zh-cn/)
 - [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly)：狼叔江湖地位颇高，《更了不起的 Node.js》的作者。
 - [全栈工程师之路-Node.js](http://i5ting.github.io/nodejs-fullstack/)
+- [2018 年了，你还是只会 npm install 吗？](https://juejin.im/post/5ab3f77df265da2392364341)
 
 ### 框架篇
 
@@ -236,7 +242,8 @@ NodeJs 的出现让前端发展进入了一个新的领域，并且滋生出专�
 - [使用vue全家桶制作博客网站](https://www.cnblogs.com/xiaohuochai/p/9228543.html)
 - [Element](http://element-cn.eleme.io/#/zh-CN)：一个高质量的 Vue UI 组件库。饿了吗前端团队出品。
 - [Vue 项目里戳中你痛点的问题及解决办法（更新）](https://juejin.im/post/5b174de8f265da6e410e0b4e)：做项目难免回去到坑，这里你或许可以找到答案。
-
+- [Vue.Draggable](https://sortablejs.github.io/Vue.Draggable/#/simple)：一个强大的拖拽库。
+- [A vue material design admin template ](http://vma.isocked.com/#/dashboard)
 #### 3. React
 
 React我了解不多，所以就没什么好推荐的了，大家可自行学习。
@@ -264,6 +271,7 @@ React我了解不多，所以就没什么好推荐的了，大家可自行学习
 - [Highcharts](https://www.highcharts.com.cn/)
 - [AntV](https://antv.alipay.com/zh-cn/index.html)
 - [Mapv](https://mapv.baidu.com/)
+- [canvas中文网](https://www.canvasapi.cn/HTMLCanvasElement/toDataURL)
 
 ### 工程化与版本控制篇
 
@@ -365,6 +373,8 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 - [v2ex](https://www.v2ex.com/)：V2EX 是一个关于分享和探索的地方，程序员聚集地。
 - [前端乱炖](http://www.html-js.com/article)
 - [Medium](https://medium.com/)：国外的优质社区，需要科学上网。
+- [css-tricks](https://css-tricks.com/using-filters-vue-js/)：优秀的教程非常之多。我经常看的一个社区。
+
 
 
 ### 项目资源
@@ -376,6 +386,8 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 - [前端 TOP 100](https://www.awesomes.cn/rank)：基本涵盖了所有前端在用的开源项目，我觉得收藏这一个就够了。
 - [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)：九部成员合著的web前端开发零基础入门手册。
 - [前端工程师手册大全](https://leohxj.gitbooks.io/front-end-database/)：基本上涵盖了前端工程师所有学习的知识。
+- [leetcode](https://leetcode-cn.com/)：算法和数据结构的学习网站，采用做题的方式。
+- [2019前端开发手册](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 ### 常用工具
 
@@ -390,6 +402,12 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 - [Can I use](https://www.caniuse.com/)：可以查看浏览器兼容 CSS 情况。
 - [在线工具](https://tool.lu/)：工具资源导航。
 - [一休导航](http://www.yoogle.top/)
+- [前端英文网站汇总](https://www.notion.so/0ba81e1707ae479b8c2b9ec79fe3a3ce)：涵盖了许多优秀的站点
+
+### 面试篇
+
+- [Vue面试中，经常会被问到的面试题/Vue知识点整理](https://segmentfault.com/a/1190000016344599) 
+- [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20#heading-29)
 
 ### 最后
 
@@ -397,7 +415,7 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 2. 再次声明，我并不是什么大神，我自认为技术也没有到达这个层级，但是我会一直坚持学下去，另外一定不要误会这里面的知识我全部都会，这些都是我学习的一些资料想整理出来，免去小白的一些不知道如何查阅资料。
 3. 这里的资源可能并不适合每一个人，你也不一定全部都需要，只需要挑选自己想要的部分就行，任何事情并不是越多越好。
 4. 这份资源我会持续的更新，欢迎大家一起交流，如果你觉得好，可以给个 star。
-5. 我个人也创建了一个公众号，新的文章和资料我都会第一时间在公众号发布，除了分享技术，还会分享自己的行动，新的认识，感悟，心得体会等等，总之不只有技术，过来吧让我们一起成长。
-6. 扫码关注微信公众号，可以获取我一路走来的全套学习资源。
+5. 我个人也创建了一个公众号，新的文章和资料我都会第一时间在公众号发布，除了分享技术，还会分享自己的行动，新的认识，感悟，心得体会等等，总之不只有技术，一起来成长。
+6. 扫码关注微信公众号，可以获取我一路走来的全套学习资源会有惊喜哦。
 
 ![image](https://github.com/liuxiaodeng/web-learning/blob/master/new-solgan-small.png)
