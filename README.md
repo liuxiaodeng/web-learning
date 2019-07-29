@@ -182,7 +182,9 @@ HTML 承载了页面的内容，但是有时候会略显单调与「丑陋」，
 - [力扣](https://leetcode-cn.com/)：学习数据结构与算法的平台。
 - [Exploring the hidden potential of JavaScript arrays!](https://areknawo.com/exploring-the-hidden-potential-of-javascript-arrays/)：非常详细的数组知识讲解。
 - [【深度长文】JavaScript数组所有API全解密](http://louiszhai.github.io/2017/04/28/array/#Array-of)
-
+- [每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)
+- [近一万字的ES6语法知识点补充](https://juejin.im/post/5c6234f16fb9a049a81fcca5#heading-15)
+- [[译] 送你 43 道 JavaScript 面试题](https://juejin.im/post/5d0644976fb9a07ed064b0ca)
 ### TypeScript篇
 
 ES6 的超集扩展，严格的数据类型，带来更好的维护，适合大型项目的开发工作，有人说它是未来的发展趋势，你说要不要了解？
