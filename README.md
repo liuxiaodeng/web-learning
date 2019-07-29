@@ -141,6 +141,7 @@ HTML 承载了页面的内容，但是有时候会略显单调与「丑陋」，
 - [CSS-大前端](http://www.daqianduan.com/tag/css)：一些 CSS 的知识点。
 - [CSS 专业技巧](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 - [无限 CSS](https://github.com/liuxiaodeng/Infinite-css)：学会更多的CSS技能，让CSS发挥更大的价值。
+- [CSS3 Flexbox 布局完全指南](https://www.html.cn/archives/8629)
 
 ### JavaScript 篇
 
@@ -185,6 +186,8 @@ HTML 承载了页面的内容，但是有时候会略显单调与「丑陋」，
 - [每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 - [近一万字的ES6语法知识点补充](https://juejin.im/post/5c6234f16fb9a049a81fcca5#heading-15)
 - [[译] 送你 43 道 JavaScript 面试题](https://juejin.im/post/5d0644976fb9a07ed064b0ca)
+- [7分钟理解JS的节流、防抖及使用场景](https://juejin.im/post/5b8de829f265da43623c4261)
+- [函数防抖与函数节流](https://zhuanlan.zhihu.com/p/38313717)
 ### TypeScript篇
 
 ES6 的超集扩展，严格的数据类型，带来更好的维护，适合大型项目的开发工作，有人说它是未来的发展趋势，你说要不要了解？
@@ -352,7 +355,9 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 - [张鑫旭](https://www.zhangxinxu.com/)：专注前端技术的大牛之一，出版《css世界》一书。
 - [W3cplus](https://www.w3cplus.com/)：大漠老师在手淘任职，CSS，HTML 有着丰富的经验。
 - [前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)：从零开始自学，然后进入京东，记录作者一路走来的学习笔记。
-- [六小登登](https://blog.csdn.net/qq_32135281)：我自己的个人博客，记录自己的一些学习总结，个人成长，认识思维，虽然自己还是个菜鸟，但一直在路上。
+- [六小登登](https://blog.csdn.net/qq_32135281)：我自己的个人博客，记录自己的一些学习总结，个人成长，认识思维，虽然自己还是个菜鸟，但一直在路上
+- [前端进阶](https://muyiy.vip/)
+- [小智](https://github.com/qq449245884/xiaozhi)
 
 #### 2. 团队
 
@@ -410,6 +415,7 @@ JavaScript代码编译器，可以让ES6及以上语法转换成浏览器支持�
 
 - [Vue面试中，经常会被问到的面试题/Vue知识点整理](https://segmentfault.com/a/1190000016344599) 
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20#heading-29)
+- [前端 100 问：能搞懂 80% 的请把简历给我](https://juejin.im/post/5d23e750f265da1b855c7bbe)
 
 ### 最后
 
